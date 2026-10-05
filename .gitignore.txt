@@ -1,0 +1,25 @@
+# Build directories
+/Debug/
+/Release/
+/x64/
+/ipch/
+
+# STM32CubeIDE specific files
+.settings/
+.launch/
+*.launch
+*.pyc
+
+# Object and dependency files
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.hex
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
